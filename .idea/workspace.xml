@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dabcaf74-fe99-4656-a3fc-89f6b5d26e33" name="Changes" comment="Proyecto de suma" />
+    <list default="true" id="dabcaf74-fe99-4656-a3fc-89f6b5d26e33" name="Changes" comment="Proyecto de suma v1_1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="62060023 &lt;62060023@continental.edu.pe&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -31,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Suma_v1_1.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -85,12 +91,30 @@
       <option name="project" value="LOCAL" />
       <updated>1725319055834</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Proyecto de suma v1_1">
+      <option name="closed" value="true" />
+      <created>1725320281236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725320281236</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Proyecto de suma v1_1">
+      <option name="closed" value="true" />
+      <created>1725320401901</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725320401901</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proyecto de suma" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto de suma" />
+    <MESSAGE value="Se añadió suma v1_1" />
+    <MESSAGE value="Proyecto de suma v1_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto de suma v1_1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
