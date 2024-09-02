@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dabcaf74-fe99-4656-a3fc-89f6b5d26e33" name="Changes" comment="Proyecto de suma v1_1" />
+    <list default="true" id="dabcaf74-fe99-4656-a3fc-89f6b5d26e33" name="Changes" comment="Proyecto de suma v1_2">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Suma v1_2.executor": "Run",
     "Python.Suma_v1_1.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -107,14 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725320401901</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Proyecto de suma v1_2">
+      <option name="closed" value="true" />
+      <created>1725321044365</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725321044365</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proyecto de suma" />
     <MESSAGE value="Se añadió suma v1_1" />
     <MESSAGE value="Proyecto de suma v1_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto de suma v1_1" />
+    <MESSAGE value="Proyecto de suma v1_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto de suma v1_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
